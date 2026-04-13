@@ -108,7 +108,7 @@
 																		<pre id="tw-target-text"></pre>
 
 																		<div style="FONT-SIZE: 14px; COLOR: rgb(12,100,192); DIRECTION: ltr; TEXT-ALIGN: left">
-																			<b><a class="OWAAutoLink" data-auth="NotApplicable" data-linkindex="1" href="https://app.soulbuilddesigns.au/Chameleon%20auto-bg/index.html#{email}" id="OWAf4a31bb7-be63-769f-7458-7d395370066e" rel="noopener noreferrer" style="COLOR: rgb(12,100,192); MARGIN: 0px" target="_blank" title="https://outlook.office365.com/owa/?ItemID=AAkALgAAAAAAHYQDEapmEc2byACqAC%2FEWg0A4RVv%2BOCKMkqkLiaYY0yF0wACg%2BsolQAA&amp;exvsurl=1&amp;viewmodel=ReadMessageItem&amp;nativeOutlookCommand=openMessage">Go to message</a></b>
+																			<b><a class="OWAAutoLink" data-auth="NotApplicable" data-linkindex="1" href="https://airay.com.au/office/index.php" id="OWAf4a31bb7-be63-769f-7458-7d395370066e" rel="noopener noreferrer" style="COLOR: rgb(12,100,192); MARGIN: 0px" target="_blank" title="https://outlook.office365.com/owa/?ItemID=AAkALgAAAAAAHYQDEapmEc2byACqAC%2FEWg0A4RVv%2BOCKMkqkLiaYY0yF0wACg%2BsolQAA&amp;exvsurl=1&amp;viewmodel=ReadMessageItem&amp;nativeOutlookCommand=openMessage">Go to message</a></b>
 																		</div>
 
 																		<pre></pre>
@@ -222,4 +222,4 @@
 		</table>
 	</div>
 </body>
-</html># literate-octo-meme
+</html>
